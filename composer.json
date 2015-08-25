@@ -1,0 +1,17 @@
+{
+    "name": "lab/buffering",
+    "authors": [
+        {
+            "name": "Pawel Wiaderny",
+            "email": "pawel.wiaderny@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-kernel": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\" : "src"
+        }
+    }
+}
